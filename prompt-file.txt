@@ -1,0 +1,1 @@
+Write the funniest one-line joke about cats, a single line under 200 characters, as a deterministic Python program that writes exactly that line to /output/entry.txt.
